@@ -9,7 +9,8 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 stat.radar.imgsmail.ru
 127.0.0.1 xray.mail.ru
-127.0.0.1 ei.phncdn.com/www-static/js/lib/signinbox.js
+127.0.0.1 ei.phncdn.com
+
 # [Google]
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.mt
@@ -72,9 +73,6 @@
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 crashlytics2.l.google.com
 127.0.0.1 region1.analytics.google.com
-
-
-
 
 127.0.0.1 auto.search.msn.com  # Microsoft uses this server to redirect
 # mistyped URLs to search engines. They
