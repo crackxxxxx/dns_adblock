@@ -10,6 +10,8 @@
 127.0.0.1 xray.mail.ru
 127.0.0.1 static.trafficjunky.com
 127.0.0.1 rs.mail.ru
+||google-analytics.com^
+||googletagmanager.com^
 
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.mt
