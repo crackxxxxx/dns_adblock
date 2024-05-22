@@ -18,7 +18,7 @@
 127.0.0.1 adservice.google.com.mt
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads4.g.doubleclick.net
-127.0.0.1 google-analytics.com
+
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 analytics.google.com
@@ -35,7 +35,6 @@
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
-127.0.0.1 googlesyndication.com
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
@@ -46,7 +45,6 @@
 127.0.0.1 sentry.io
 127.0.0.1 ymatuhin.ru
 127.0.0.1 static.hotjar.com
-127.0.0.1 www.googletagmanager.com
 127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 js.sentry-cdn.com
 
