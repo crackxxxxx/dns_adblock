@@ -322,11 +322,12 @@
 127.0.0.1 media.fastclick.net   # Likewise, this may interfere with some
 127.0.0.1 cdn.fastclick.net # sites. 
 127.0.0.1 ebay.doubleclick.net     # may interfere with ebay
-127.0.0.1 google-analytics.com         # breaks some sites
+# [google-analytics.com]
+127.0.0.1 google-analytics.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
 127.0.0.1 stat.livejournal.com     # There are reports that this may mess 
 # up CSS on livejournal
 127.0.0.1 stats.surfaid.ihost.com  # This has been known cause 
 # problems with NPR.org
-127.0.0.1 www.google-analytics.com     # breaks some sites
 127.0.0.1 ads.imeem.com        # Seems to interfere with the functioning of imeem.com
