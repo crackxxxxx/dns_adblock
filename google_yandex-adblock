@@ -1,18 +1,18 @@
-||mc.yandex.ru^
-||bs.yandex.ru^
-||direct.yandex.ru^
-||an.yandex.ru^
+127.0.0.1 mc.yandex.ru^
+127.0.0.1 bs.yandex.ru^
+127.0.0.1 direct.yandex.ru^
+127.0.0.1 an.yandex.ru^
 
-||etahub.com^
-||ad.mail.ru^
-||counter.yadro.ru^
-||stat.radar.imgsmail.ru^
-||xray.mail.ru^
-||static.trafficjunky.com^
-||rs.mail.ru^
-||google-analytics.com^
-||googletagmanager.com^
-||googlesyndication.com^
+127.0.0.1 etahub.com^
+127.0.0.1 ad.mail.ru^
+127.0.0.1 counter.yadro.ru^
+127.0.0.1 stat.radar.imgsmail.ru^
+127.0.0.1 xray.mail.ru^
+127.0.0.1 static.trafficjunky.com^
+127.0.0.1 rs.mail.ru^
+127.0.0.1 google-analytics.com^
+127.0.0.1 googletagmanager.com^
+127.0.0.1 googlesyndication.com^
 
 127.0.0.1 adservice.google.com
 127.0.0.1 adservice.google.com.mt
