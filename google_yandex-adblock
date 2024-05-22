@@ -1,7 +1,60 @@
+# [Yandex]
 127.0.0.1 mc.yandex.ru
 127.0.0.1 bs.yandex.ru
 127.0.0.1 direct.yandex.ru
 127.0.0.1 an.yandex.ru
+
+# [Google]
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.mt
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 analytics.google.com
+127.0.0.1 clientmetrics-pa.googleapis.com
+127.0.0.1 crashlyticsreports-pa.googleapis.com
+127.0.0.1 googleadservices.com
+127.0.0.1 googleanalytics.com
+127.0.0.1 mail-ads.google.com
+127.0.0.1 pagead.l.google.com
+127.0.0.1 partnerad.l.google.com
+127.0.0.1 wintricksbanner.googlepages.com
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 ads.google.com
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 static.googleadsserving.cn
+127.0.0.1 googlesyndication.com
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 displayads-formats.googleusercontent.com
+
+# [gotrackier.com]
+127.0.0.1 adapace.gotrackier.com
+127.0.0.1 adjar.gotrackier.com
+127.0.0.1 adsapp.gotrackier.com
+127.0.0.1 adstory.gotrackier.com
+127.0.0.1 adyogis.gotrackier.com
+127.0.0.1 affilsoft.gotrackier.com
+127.0.0.1 appmontize.gotrackier.com
+127.0.0.1 auctera.gotrackier.com
+127.0.0.1 blendai.gotrackier.com
+127.0.0.1 click2commission.gotrackier.com
+127.0.0.1 conup.gotrackier.com
+127.0.0.1 harvest.gotrackier.com
+127.0.0.1 hyperads.gotrackier.com
+127.0.0.1 inkrevenue.gotrackier.com
+127.0.0.1 kormzi.gotrackier.com
+127.0.0.1 mediaxpedia.gotrackier.com
+127.0.0.1 momentus.gotrackier.com
+127.0.0.1 netsetgo.gotrackier.com
+127.0.0.1 playdigo.gotrackier.com
+127.0.0.1 quickadsmedia.gotrackier.com
+127.0.0.1 vihit.gotrackier.com
+127.0.0.1 vytomi.gotrackier.com
 
 # [doubleclick.net]
 127.0.0.1 doubleclick.net
@@ -17,8 +70,6 @@
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
@@ -43,10 +94,6 @@
 127.0.0.1 media.fastclick.net   # Likewise, this may interfere with some
 127.0.0.1 cdn.fastclick.net # sites. 
 127.0.0.1 ebay.doubleclick.net     # may interfere with ebay
-# [google-analytics.com]
-127.0.0.1 google-analytics.com
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.google-analytics.com
 127.0.0.1 stat.livejournal.com     # There are reports that this may mess 
 # up CSS on livejournal
 127.0.0.1 stats.surfaid.ihost.com  # This has been known cause 
