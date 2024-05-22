@@ -1,75 +1,59 @@
-127.0.0.1 mc.yandex.ru
-127.0.0.1 bs.yandex.ru
-127.0.0.1 direct.yandex.ru
-127.0.0.1 an.yandex.ru
+adservice.google.com
+adservice.google.com.mt
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
 
-127.0.0.1 etahub.com
-127.0.0.1 ad.mail.ru
-127.0.0.1 counter.yadro.ru
-127.0.0.1 stat.radar.imgsmail.ru
-127.0.0.1 xray.mail.ru
-127.0.0.1 static.trafficjunky.com
-127.0.0.1 rs.mail.ru
-127.0.0.1 google-analytics.com
-127.0.0.1 googletagmanager.com
-127.0.0.1 googlesyndication.com
-
-127.0.0.1 adservice.google.com
-127.0.0.1 adservice.google.com.mt
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
-
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 analytics.google.com
-127.0.0.1 clientmetrics-pa.googleapis.com
-127.0.0.1 crashlyticsreports-pa.googleapis.com
-127.0.0.1 googleadservices.com
-127.0.0.1 googleanalytics.com
-127.0.0.1 mail-ads.google.com
-127.0.0.1 pagead.l.google.com
-127.0.0.1 partnerad.l.google.com
-127.0.0.1 wintricksbanner.googlepages.com
-127.0.0.1 www-google-analytics.l.google.com
-127.0.0.1 ads.google.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 static.googleadsserving.cn
-127.0.0.1 ade.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 tpc.googlesyndication.com
-127.0.0.1 displayads-formats.googleusercontent.com
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 sessions.bugsnag.com
-127.0.0.1 bugsnag.com
-127.0.0.1 sentry.io
-127.0.0.1 ymatuhin.ru
-127.0.0.1 static.hotjar.com
-127.0.0.1 browser.sentry-cdn.com
-127.0.0.1 js.sentry-cdn.com
+ssl.google-analytics.com
+www.google-analytics.com
+analytics.google.com
+clientmetrics-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
+googleadservices.com
+googleanalytics.com
+mail-ads.google.com
+pagead.l.google.com
+partnerad.l.google.com
+wintricksbanner.googlepages.com
+www-google-analytics.l.google.com
+ads.google.com
+pagead2.googleadservices.com
+www.googleadservices.com
+static.googleadsserving.cn
+ade.googlesyndication.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+displayads-formats.googleusercontent.com
+partner.googleadservices.com
+sessions.bugsnag.com
+bugsnag.com
+sentry.io
+ymatuhin.ru
+static.hotjar.com
+browser.sentry-cdn.com
+js.sentry-cdn.com
 
 
-127.0.0.1 doubleclick.net
-127.0.0.1 accounts.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad-emea.doubleclick.net
-127.0.0.1 ff.doubleclick.net
-127.0.0.1 fls.doubleclick.net
-127.0.0.1 5290727.fls.doubleclick.net
-127.0.0.1 8168974.fls.doubleclick.net
-127.0.0.1 8397396.fls.doubleclick.net
-127.0.0.1 g.doubleclick.net
-127.0.0.1 adx.g.doubleclick.net
-127.0.0.1 bid.g.doubleclick.net
-127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 survey.g.doubleclick.net
-127.0.0.1 dart.l.doubleclick.net
-127.0.0.1 m.doubleclick.net
-127.0.0.1 s0.doubleclick.net
-127.0.0.1 static.doubleclick.net
-127.0.0.1 crashlyticsreports-pa.googleapis.com
-127.0.0.1 crashlytics2.l.google.com
-127.0.0.1 region1.analytics.google.com
+doubleclick.net
+accounts.doubleclick.net
+ad.doubleclick.net
+ad-emea.doubleclick.net
+ff.doubleclick.net
+fls.doubleclick.net
+5290727.fls.doubleclick.net
+8168974.fls.doubleclick.net
+8397396.fls.doubleclick.net
+g.doubleclick.net
+adx.g.doubleclick.net
+bid.g.doubleclick.net
+cm.g.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+stats.g.doubleclick.net
+survey.g.doubleclick.net
+dart.l.doubleclick.net
+m.doubleclick.net
+s0.doubleclick.net
+static.doubleclick.net
+crashlyticsreports-pa.googleapis.com
+crashlytics2.l.google.com
+region1.analytics.google.com
