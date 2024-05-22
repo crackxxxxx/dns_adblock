@@ -31,7 +31,8 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 displayads-formats.googleusercontent.com
-
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 pagead2.*
 
 # [doubleclick.net]
 127.0.0.1 doubleclick.net
