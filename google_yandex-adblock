@@ -32,29 +32,6 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 displayads-formats.googleusercontent.com
 
-# [gotrackier.com]
-127.0.0.1 adapace.gotrackier.com
-127.0.0.1 adjar.gotrackier.com
-127.0.0.1 adsapp.gotrackier.com
-127.0.0.1 adstory.gotrackier.com
-127.0.0.1 adyogis.gotrackier.com
-127.0.0.1 affilsoft.gotrackier.com
-127.0.0.1 appmontize.gotrackier.com
-127.0.0.1 auctera.gotrackier.com
-127.0.0.1 blendai.gotrackier.com
-127.0.0.1 click2commission.gotrackier.com
-127.0.0.1 conup.gotrackier.com
-127.0.0.1 harvest.gotrackier.com
-127.0.0.1 hyperads.gotrackier.com
-127.0.0.1 inkrevenue.gotrackier.com
-127.0.0.1 kormzi.gotrackier.com
-127.0.0.1 mediaxpedia.gotrackier.com
-127.0.0.1 momentus.gotrackier.com
-127.0.0.1 netsetgo.gotrackier.com
-127.0.0.1 playdigo.gotrackier.com
-127.0.0.1 quickadsmedia.gotrackier.com
-127.0.0.1 vihit.gotrackier.com
-127.0.0.1 vytomi.gotrackier.com
 
 # [doubleclick.net]
 127.0.0.1 doubleclick.net
@@ -78,6 +55,12 @@
 127.0.0.1 m.doubleclick.net
 127.0.0.1 s0.doubleclick.net
 127.0.0.1 static.doubleclick.net
+127.0.0.1 crashlyticsreports-pa.googleapis.com
+127.0.0.1 crashlytics2.l.google.com
+127.0.0.1 region1.analytics.google.com
+
+
+
 
 127.0.0.1 auto.search.msn.com  # Microsoft uses this server to redirect
 # mistyped URLs to search engines. They
