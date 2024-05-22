@@ -32,7 +32,14 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 displayads-formats.googleusercontent.com
 127.0.0.1 partner.googleadservices.com
-127.0.0.1 pagead2.*
+127.0.0.1 sessions.bugsnag.com
+127.0.0.1 bugsnag.com
+127.0.0.1 sentry.io
+127.0.0.1 ymatuhin.ru
+127.0.0.1 static.hotjar.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 js.sentry-cdn.com
 
 # [doubleclick.net]
 127.0.0.1 doubleclick.net
