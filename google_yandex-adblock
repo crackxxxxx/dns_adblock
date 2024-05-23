@@ -14,5 +14,7 @@
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 rs.mail.ru
 0.0.0.0 ads.yandex.com
-0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 googletagmanager.com
 0.0.0.0 share.yandex.ru
+0.0.0.0 banners-slb.mobile.yandex.net
+0.0.0.0 banners.mobile.yandex.net
