@@ -18,3 +18,7 @@
 0.0.0.0 share.yandex.ru
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 startup.mobile.yandex.net
