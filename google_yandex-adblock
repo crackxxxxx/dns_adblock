@@ -11,7 +11,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 sentry.io
 0.0.0.0 static.hotjar.com
-0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 trafficjunky.com
 0.0.0.0 ei.phncdn.com
 0.0.0.0 ad.mail.ru
@@ -42,7 +41,6 @@
 0.0.0.0 adj.st
 0.0.0.0 adjust.com
 0.0.0.0 go.link
-0.0.0.0 sentry.joshdholtz.com
 0.0.0.0 metrica.yandex.ru
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
@@ -65,7 +63,6 @@
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 analytics.google.com
 0.0.0.0 click.googleanalytics.com
-0.0.0.0 app.getsentry.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 api.bugsnag.com
@@ -76,5 +73,5 @@
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 adfox.yandex.ru
-
-
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
