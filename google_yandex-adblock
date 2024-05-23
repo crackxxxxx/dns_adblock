@@ -57,3 +57,24 @@
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 stats.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 adservice.google.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 analytics.google.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+
+
