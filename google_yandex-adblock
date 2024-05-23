@@ -1,7 +1,12 @@
 0.0.0.0 mc.yandex.ru
+0.0.0.0 amc.yandex.ru
+0.0.0.0 mc.yandex.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 direct.yandex.ru
 0.0.0.0 an.yandex.ru
+0.0.0.0 an.yandex.
+0.0.0.0 startup-mobile.ap.yandex-net
+0.0.0.0 clck.yandex.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 sentry.io
@@ -19,7 +24,9 @@
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 appmetrica.yandex.com
+0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 mobileads.google.com
