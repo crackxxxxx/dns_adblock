@@ -173,11 +173,5 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 open.oneplus.net
-||test.takedwn.ws^
-||yadro.ru^
-||vak345.com^
-||collector.github.com^
-||yastatic.net/pcode/adfox/loader.js$xhr,domain=yandex.ru
-||mc.yandex.ru/metrika/advert.gif$xhr,1p
 
 
